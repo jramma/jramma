@@ -6,7 +6,7 @@ I mange data bases, security and comondly I create online APIs.
 
 ## Talking with me
 
-- 🐦 My linkedin: [Pepe Ramos](https://www.linkedin.com/in/peperamos090922/)
+- 💼 My linkedin: [Pepe Ramos](https://www.linkedin.com/in/peperamos090922/)
 - 📫 My mail: <a href="mailto:jrmasip97@gmail.com">Gmail</a>
 ---
 
