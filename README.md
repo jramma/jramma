@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I am a junior Back-End developer, concretely Java.
+I am a junior Back-End developer, concretely Java. /n
 I manage databases, security and commonly I create online APIs.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&count_private=true&show_icons=true)
