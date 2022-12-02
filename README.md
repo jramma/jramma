@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I am a junior Back-End developer, concretely Java.
+I am a junior Back-End developer, concretely Java. <br>
 I manage databases, security and commonly I create online APIs.
 
 
