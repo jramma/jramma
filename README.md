@@ -7,7 +7,7 @@ I manage databases, security and commonly I create online APIs.
 ![GitHub Stats](https://github-readme-stats-just-hack-it.vercel.app/api?username=jramma&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-just-hack-it.vercel.app/api/top-langs?username=jramma&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)--->
 
 ## Talking with me
 
