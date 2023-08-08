@@ -9,7 +9,7 @@ I manage databases, security and commonly I create online APIs.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)--->
 
-## Talking with me
+## Contact
 
 - 💼 My linkedin: [Pepe Ramos](https://www.linkedin.com/in/peperamos090922/)
 - 📫 My mail: <a href="mailto:jrmasip97@gmail.com">Gmail</a>
