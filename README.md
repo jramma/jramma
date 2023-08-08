@@ -13,7 +13,7 @@ I manage databases, security and commonly I create online APIs.
 
 - 💼 My linkedin: [Pepe Ramos](https://www.linkedin.com/in/peperamos090922/)
 - 📫 My mail: <a href="mailto:jrmasip97@gmail.com">Gmail</a>
-- 💼 My GitHup Pages: [Pepe Ramos](https://jramma.github.io/)
+- 🌍 My GitHup Pages: [Pepe Ramos](https://jramma.github.io/)
 ---
 
 Learn more about me on [the About page of my blog](https://peperamos.cat/)
