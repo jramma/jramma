@@ -16,4 +16,4 @@ I manage databases, security and commonly I create online APIs.
 - 🌍 My GitHup Pages: [Pepe Ramos](https://jramma.github.io/)
 ---
 
-Learn more about me on [the About page of my blog](https://peperamos.cat/)
+Learn more about me on [the About page of my blog](https://jramma.com/)
