@@ -3,8 +3,7 @@
 I am a junior Back-End developer, concretely Java. <br>
 I manage databases, security and commonly I create online APIs.
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&count_private=true&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&theme=dark)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)  --->
