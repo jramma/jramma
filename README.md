@@ -14,5 +14,5 @@ I'm a junior developer
 
 ---
 
-Learn more about me on [the About page of my blog](https://jramma.com/).
+Learn more about me on [the About page of my blog](https://jramma.com/about/).
 
