@@ -4,7 +4,6 @@ I'm a junior Back-End developer, primarily focused on Java, and I'm on a journey
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&count_private=true&show_icons=true)
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jramma&layout=compact)
 
 ## Get in Touch
