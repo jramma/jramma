@@ -17,5 +17,5 @@ I am a philosopher, web developer, and computer scientist. I am currently pursui
 
 ---
 
-Learn more about me on [the About page of my blog](https://jramma.com/about/).
+Learn more about me on [the About page of my blog](https://jramma.com/).
 
