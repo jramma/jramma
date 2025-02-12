@@ -34,6 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jramma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@jramma Astro contributions](https://astro.badg.es/v2/contributor/jramma.svg)](https://astro.badg.es/contributor/jramma/)
 ---
 
 ### 🎨 &nbsp; My web :
