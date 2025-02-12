@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css,react,angular,nodejs,nextjs,astro,laravel,wordpress,mongodb,mysql,vscode,vim,git,bun,figma,postman,linux,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css,react,angular,nodejs,nextjs,astro,laravel,wordpress,mongodb,mysql,vscode,vim,git,bun,figma,postman,linux" />
   </a>
 </p>
 
