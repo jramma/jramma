@@ -18,7 +18,7 @@ Soy **desarrollador full-stack** con experiencia real en proyectos en producció
 
 - 🧠 Actualmente curso el máster en Desarrollo y Diseño de Aplicaciones Web.
 - 🛠️ Trabajo con tecnologías como **Next.js, WordPress headless, Astro y MongoDB**.
-- 🌍 He desarrollado sitios internacionales (como [Tarotorula](https://tarotorula.com)) y webs para medios, ecommerces y apps.
+- 🌍 He desarrollado sitios internacionales y webs para medios, ecommerces y apps.
 - 🚀 Me interesa crear productos que funcionen, sean rápidos y accesibles.
 - 📍 Busco oportunidades en **Barcelona** o en **remoto desde España**.
 
