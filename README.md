@@ -23,11 +23,10 @@
 
 Soy **desarrollador full-stack** con experiencia real en proyectos en producción, especializado en el desarrollo de **aplicaciones web modernas**.
 
-- 🎓 Estudiante del Máster en Desarrollo y Diseño de Aplicaciones Web.
 - 🛠️ Trabajo con tecnologías como **Next.js, WordPress, Astro y MongoDB**.
 - 🌍 He desarrollado sitios internacionales, medios digitales, ecommerces y apps.
 - 🚀 Me gusta crear productos funcionales, rápidos y accesibles para todos.
-- 📍 Disponible para trabajar en **Barcelona** o en **remoto desde España**.
+- 📍 Disponible para trabajar
 
 ---
 
