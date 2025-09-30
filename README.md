@@ -1,70 +1,49 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
-</p>
+# 👋 Hola, soy Jose Ramos (Jramma)
 
-<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center">
-  <strong>Desarrollador Full-Stack | Apasionado por las aplicaciones web modernas, accesibles y rápidas</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jramma">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://buymeacoffee.com/jramma">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
+💻 Desarrollador **Frontend / Fullstack** con base en **Barcelona**.  
+🎓 Filósofo reconvertido en programador, curioso por naturaleza y fan del diseño elegante.  
+🐧 Uso **Arch Linux btw**.
 
 ---
 
-### 👨🏻‍💻 Sobre mí
+## 🚀 Tecnologías y herramientas
 
-Soy **desarrollador full-stack** con experiencia real en proyectos en producción, especializado en el desarrollo de **aplicaciones web modernas**.
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff) 
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff) 
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)  
 
-- 🛠️ Trabajo con tecnologías como **Next.js, WordPress, Astro y MongoDB**.
-- 🌍 He desarrollado sitios internacionales, medios digitales, ecommerces y apps.
-- 🚀 Me gusta crear productos funcionales, rápidos y accesibles para todos.
-- 📍 Disponible para trabajar
-
----
-
-### 🧰 Tecnologías y herramientas favoritas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css,react,angular,nodejs,nextjs,astro,laravel,wordpress,mongodb,mysql,vscode,vim,git,bun,figma,postman,linux" />
-  </a>
-</p>
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jramma&theme=dark&background=000000" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramma&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  <br/>
-  <a href="https://astro.badg.es/contributor/jramma/">
-    <img src="https://astro.badg.es/v2/contributor/jramma.svg" alt="@jramma Astro contributions"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🌐 Mi web
+## 📊 Stats
 
-📎 [www.jramma.com](http://www.jramma.com)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jramma&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-### 🤝 Contacto
+## 🌱 Actualmente
 
-¿Colaboramos?  
-Estoy abierto a nuevas oportunidades, colaboraciones y proyectos interesantes.
+- Construyendo apps y webs con **Next.js**, **Astro** y **Tailwind**.  
+- Explorando integraciones de **IA** y experiencia de usuario avanzada.  
+- Colaborando en proyectos freelance y open source.  
 
-📬 Escríbeme por [LinkedIn](https://www.linkedin.com/in/jramma/) o visita [mi web personal](http://www.jramma.com).
+---
 
-☕ Si te gusta mi trabajo y quieres apoyarlo: [**Buy me a coffee**](https://buymeacoffee.com/jramma)
+📫 **Contacto**: [contact@jramma.com](mailto:contact@jramma.com)  
+🌐 **Portfolio**: [jramma.com](https://jramma.com)
