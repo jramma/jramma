@@ -24,8 +24,9 @@
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jramma&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jramma&layout=compact&theme=radical)
+![jramma's Stats](https://github-readme-stats.vercel.app/api?username=jramma&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+![jramma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jramma&theme=outrun&hide_border=false)
+![jramma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jramma&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
