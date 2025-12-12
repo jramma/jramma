@@ -1,9 +1,8 @@
-# Jose Ramos – Frontend Developer
+# Jose Ramos – Software Developer
 
-**Desarrollador Frontend** especializado en crear **webs rápidas, escalables y optimizadas para SEO** con tecnologías modernas. Basado en **Barcelona**.
+**Desarrollador Software** especializado en crear **webs rápidas, escalables y optimizadas para SEO** con tecnologías modernas. Basado en **Barcelona**.
 
 **[jramma.com](https://jramma.com)** · **[contact@jramma.com](mailto:contact@jramma.com)**
-
 
 ## Sobre mí
 
@@ -11,7 +10,6 @@
 - **Especializado en**: Astro, React, Next.js, TypeScript y desarrollo full-stack
 - **Enfoque**: Aplicaciones web escalables, UX avanzada, integración de CMS headless y SEO técnico
 - **Stack diario**: Linux (Debian/Arch), Git, y las mejores prácticas de desarrollo moderno
-
 
 ## Tech Stack
 
@@ -26,14 +24,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=fff)
 ![Payload CMS](https://img.shields.io/badge/-Payload-000?logo=payloadcms&logoColor=fff)
 
 **Herramientas & Otros**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
-
 
 ## Servicios
 
@@ -43,7 +40,6 @@
 - **Integración de CMS** (Payload, headless y tradicionales)
 - **Aplicaciones web escalables** y mantenibles
 - **Soluciones completas**: desde el diseño hasta el despliegue
-
 
 ## Proyectos Destacados
 
@@ -67,4 +63,3 @@ Contribuidor activo en proyectos open source, especialmente en el ecosistema de 
 - **Web**: [jramma.com](https://jramma.com)
 - **Email**: [contact@jramma.com](mailto:contact@jramma.com)
 - **LinkedIn**: Contáctame a través de mi web
-
