@@ -1,15 +1,8 @@
 # Jose Ramos – Software Developer
 
-**Desarrollador Software** especializado en crear **webs rápidas, escalables y optimizadas para SEO** con tecnologías modernas. Basado en **Barcelona**.
+**Software Developer** and Linux instructor 🐧, specializing in creating **fast, scalable, and SEO-optimized websites** with modern technologies. Based in **Barcelona**.
 
 **[jramma.com](https://jramma.com)** · **[contact@jramma.com](mailto:contact@jramma.com)**
-
-## Sobre mí
-
-- **De la filosofía al código**: Formación en filosofía que aporta pensamiento crítico y resolución creativa de problemas
-- **Especializado en**: Astro, React, Next.js, TypeScript y desarrollo full-stack
-- **Enfoque**: Aplicaciones web escalables, UX avanzada, integración de CMS headless y SEO técnico
-- **Stack diario**: Linux (Debian/Arch), Git, y las mejores prácticas de desarrollo moderno
 
 ## Tech Stack
 
@@ -27,39 +20,24 @@
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=fff)
 ![Payload CMS](https://img.shields.io/badge/-Payload-000?logo=payloadcms&logoColor=fff)
 
-**Herramientas & Otros**  
+**Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 
-## Servicios
+## Featured Projects
 
-- **Desarrollo web moderno** con Astro, React y Next.js
-- **UI/UX responsive** y accesible
-- **SEO técnico** y optimización de rendimiento
-- **Integración de CMS** (Payload, headless y tradicionales)
-- **Aplicaciones web escalables** y mantenibles
-- **Soluciones completas**: desde el diseño hasta el despliegue
+Check out my projects at [jramma.com/blog](https://jramma.com/blog):
 
-## Proyectos Destacados
+- **Big City Life**: Photography portfolio with Astro
+- **Obladi**: Social network for lost items
+- **Sorolla Portfolio**: Blog built with Astro
+- **Custom CMS**: Development of personalized content management systems
 
-Consulta mis proyectos en [jramma.com/blog](https://jramma.com/blog):
+## Contact
 
-- **Big City Life**: Portfolio de fotografía con Astro
-- **Obladi**: Red social para objetos perdidos
-- **Sorolla Portfolio**: Blog hecho con Astro
-- **CMS a medida**: Desarrollo de sistemas de gestión de contenido personalizados
+Have a project in mind? Let's work together:
 
-## Blog & Open Source
-
-Escribo sobre desarrollo web, accesibilidad, Linux y buenas prácticas en [jramma.com/blog](https://jramma.com/blog).
-
-Contribuidor activo en proyectos open source, especialmente en el ecosistema de Astro.
-
-## Contacto
-
-¿Tienes un proyecto en mente? Trabajemos juntos:
-
-- **Web**: [jramma.com](https://jramma.com)
+- **Website**: [jramma.com](https://jramma.com)
 - **Email**: [contact@jramma.com](mailto:contact@jramma.com)
-- **LinkedIn**: Contáctame a través de mi web
+- **LinkedIn**: Contact me through my website
