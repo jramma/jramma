@@ -19,20 +19,19 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=fff)
 ![Payload CMS](https://img.shields.io/badge/-Payload-000?logo=payloadcms&logoColor=fff)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 
 **Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 
 ## Featured Projects
 
 Check out my projects at [jramma.com/blog](https://jramma.com/blog):
 
-- **Big City Life**: Photography portfolio with Astro
-- **Obladi**: Social network for lost items
-- **Sorolla Portfolio**: Blog built with Astro
-- **Custom CMS**: Development of personalized content management systems
+- ![Sorolla Portfolio](github.com/jramma/sorollaportfolio): Blog built with Astro
+- ![Big City Life](https://github.com/jramma/bigCityLife): Photography portfolio with Astro
+- ![Obladi](https://github.com/jramma/Obladi): Social network for lost items, a final master's project (deprecated)
 
 ## Contact
 
