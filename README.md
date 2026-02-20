@@ -29,9 +29,9 @@
 
 Check out my projects at [jramma.com/blog](https://jramma.com/blog):
 
-- ![Sorolla Portfolio](github.com/jramma/sorollaportfolio): Blog built with Astro
-- ![Big City Life](https://github.com/jramma/bigCityLife): Photography portfolio with Astro
-- ![Obladi](https://github.com/jramma/Obladi): Social network for lost items, a final master's project (deprecated)
+- [Sorolla Portfolio](github.com/jramma/sorollaportfolio): Blog built with Astro
+- [Big City Life](https://github.com/jramma/bigCityLife): Photography portfolio with Astro
+- [Obladi](https://github.com/jramma/Obladi): Social network for lost items, a final master's project (deprecated)
 
 ## Contact
 
