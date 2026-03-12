@@ -2,7 +2,7 @@
 
 **Software Developer** and Linux instructor 🐧, specializing in creating **fast, scalable, and SEO-optimized websites** with modern technologies. Based in **Barcelona**.
 
-**[jramma.com](https://jramma.com)** · **[contact@jramma.com](mailto:contact@jramma.com)**
+**[casset.cat](https://casset.cat)** · **[hola@casset.cat](mailto:hola@casset.cat)**
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@
 
 ## Featured Projects
 
-Check out my projects at [jramma.com/blog](https://jramma.com/blog):
+Check out my projects at [casset.cat/blog](https://casset.cat/blog):
 
 - [Sorolla Portfolio](github.com/jramma/sorollaportfolio): Blog built with Astro
 - [Big City Life](https://github.com/jramma/bigCityLife): Photography portfolio with Astro
@@ -37,6 +37,6 @@ Check out my projects at [jramma.com/blog](https://jramma.com/blog):
 
 Have a project in mind? Let's work together:
 
-- **Website**: [jramma.com](https://jramma.com)
-- **Email**: [contact@jramma.com](mailto:contact@jramma.com)
+- **Website**: [casset.cat](https://casset.cat)
+- **Email**: [contact@jramma.com](mailto:hola@casset.cat)
 - **LinkedIn**: Contact me through my website
