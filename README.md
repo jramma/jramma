@@ -38,5 +38,5 @@ Check out my projects at [casset.cat/blog](https://casset.cat/blog):
 Have a project in mind? Let's work together:
 
 - **Website**: [casset.cat](https://casset.cat)
-- **Email**: [contact@jramma.com](mailto:hola@casset.cat)
+- **Email**: [hola@casset.cat](mailto:hola@casset.cat)
 - **LinkedIn**: Contact me through my website
