@@ -1,5 +1,7 @@
 # Jose Ramos – Software Developer
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+
 **Software Developer** and Linux instructor 🐧, specializing in creating **fast, scalable, and SEO-optimized websites** with modern technologies. Based in **Barcelona**.
 
 **[casset.cat](https://casset.cat)** · **[hola@casset.cat](mailto:hola@casset.cat)**
